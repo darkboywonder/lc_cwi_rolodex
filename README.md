@@ -15,6 +15,6 @@ Clone the repository by clicking on the green button labeled "Clone" to copy the
 - In your bash window for windows or terminal window for mac, keep your location in this folder and await for further instruction in class by me
 
 ## Running the site locally
-- *For Mac* navigate to the directory using finder. Within the folder you should see `index.html`, `style.css`, and an image directory. Click on the index file to launch the page in your default browser using the contents from the folder.
+- *For Mac Users*, navigate to the directory using finder. Within the folder you should see `index.html`, `style.css`, and an image directory. Click on the index file to launch the page in your default browser using the contents from the folder.
 
-- *For Windows* navigate to the directory using Windows file manager. Within the folder you should see `index.html`, `style.css`, and an image directory. Click on the index file to launch the page in your default browser using the contents from the folder.
+- *For Windows Windows*, navigate to the directory using Windows file manager. Within the folder you should see `index.html`, `style.css`, and an image directory. Click on the index file to launch the page in your default browser using the contents from the folder.
