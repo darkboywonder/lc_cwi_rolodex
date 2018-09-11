@@ -10,6 +10,7 @@ body {
     box-shadow: 3px 3px 14px 0px rgba(27,43,63,0.64);
     width: 360px;
     height: auto;
+    margin: 15px 0;
 }
 
 .thumbnail {
